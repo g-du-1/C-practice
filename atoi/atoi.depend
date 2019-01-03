@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539934633 source:c:\c-practice\atoi\main.c
+	<stdio.h>
+	<stdlib.h>
+
